@@ -5,7 +5,7 @@ HTML, CSS
 👋 Hi, I’m Henry 
 😎 I’m a web developer 
 💻 This webiste shows a collapsed menu, i.e Hamburger menu with HTML and CSS 
-🌍 WebApp: https://lacegiovanni17.github.io/Train-Passenger-Counter/ 
+🌍 Website: https://lacegiovanni17.github.io/hamburger-menu-site/
 💞 I’m looking to collaborate on JS projects 
 📫 How to reach me dk1online25@gmail.com
 
